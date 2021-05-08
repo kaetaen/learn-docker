@@ -1,0 +1,23 @@
+{
+  "name": "learn-docker",
+  "version": "1.0.0",
+  "description": "## Imagem e Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaetaen/learn-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaetaen/learn-docker/issues"
+  },
+  "homepage": "https://github.com/kaetaen/learn-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
